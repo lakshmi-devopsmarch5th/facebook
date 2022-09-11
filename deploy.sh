@@ -1,3 +1,3 @@
-updating this line this line we can use for deploy 
+updating this line 
 this file contains deploy related logic
 
